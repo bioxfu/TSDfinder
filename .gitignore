@@ -1,0 +1,14 @@
+bam
+clean
+fastq
+fastqc
+output
+stat
+TE
+track
+.snakemake
+nohup.log
+config.yaml
+download_sra.sh
+Snakefile
+
